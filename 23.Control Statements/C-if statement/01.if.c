@@ -18,4 +18,4 @@ int main(void){
 }
 
 
-//if only evaluate the true condition then the first if block is true then it will executed
+//if only evaluate the true condition then the first if block is true then it will executed..
