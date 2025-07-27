@@ -44,3 +44,6 @@ int main() {
 
     return 0;
 }
+
+
+//it takes the two outechoice and two innerchoice but only execute the outerchoice is selectee and innerchoice is selected like 1 case 1 and innerchoice case 2
